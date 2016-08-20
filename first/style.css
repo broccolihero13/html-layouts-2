@@ -1,0 +1,89 @@
+html, body {
+  height: 99.9%;
+  width: 100%;
+  margin:0;
+  padding:0;
+}
+
+.container {
+  height:100%;
+  width:100%;
+}
+
+.box {
+  margin:0 2.5% 0 2.5%;
+  height: 150px;
+  width: 28.33%;
+  float:left;
+}
+
+.horizontal-bar{
+  min-height: 150px;
+  width: 100%;
+  padding:0 10px 0 10px;
+  margin:10px 0 0 0;
+  clear:both;
+}
+
+.horizontal-bar2{
+  height: 250px;
+  width: 100%;
+  padding:0 10px 0 10px;
+  margin:10px 0 0 0;
+  clear:both;
+}
+
+.text-bar p {
+  margin: 15px;
+  height: 100%;
+}
+
+.red {
+  background-color:#D0021B;
+}
+
+.blue {
+  background-color: #4E92DF;
+}
+
+.gray {
+  background-color: #4A4A4A;
+}
+
+.one-third {
+  float:left;
+  width:30.83%;
+  height:250px;
+  margin-left:2.5%;
+}
+
+.two-thirds {
+  float:left;
+  width:64.16%;
+  height:250px;
+  margin-right:2.5%;
+}
+
+.small-block {
+  float:left;
+  height:150px;
+  width:15%;
+}
+.med-block {
+  float:left;
+  height:150px;
+  width:60%;
+}
+
+.one-quarter {
+  float:left;
+  height:150px;
+  width:25%;
+}
+
+.three-quarters {
+  float:left;
+  height:150px;
+  width:72.4%;
+  margin-left:2.5%;
+}

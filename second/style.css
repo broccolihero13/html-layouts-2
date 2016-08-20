@@ -1,0 +1,88 @@
+html,body {
+  width: 99.9%;
+}
+.container {
+  padding:1%;
+  height: 100%;
+  width: 98%;
+}
+
+.light-gray {
+  background-color: #D8D8D8;
+}
+
+.gray {
+  background-color: #4A4A4A;
+}
+
+.blue {
+  background-color: #4E92DF;
+}
+
+.red {
+  background-color: #D0021B;
+}
+
+.text-box {
+  background-color: #FFFFFF;
+  margin: 20px auto 20px auto;
+  padding: 2% 4% 2% 4%;
+  max-width: 90%;
+}
+
+.button-bar {
+  display: flex;
+  height: 60px;
+}
+
+.button {
+  flex: 1;
+  color: #FFFFFF;
+  text-align: center;
+  margin: 0 2.5% 0 2.5%;
+  padding: 1px;
+  border:1px solid;
+  display: flex;
+}
+
+.button p {
+  font-family: sans-serif;
+  font-size: 150%;
+  flex: 1;
+  margin:auto;
+}
+
+.image-holder {
+  height: 350px;
+  display: flex;
+}
+.image-holder p {
+  font-family: sans-serif;
+  font-size: 300%;
+  flex: 1;
+  margin:auto;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+footer {
+  height:50px;
+}
+.foot-button-bar {
+  width: 80%;
+  padding: .5%;
+  margin: 1%;
+}
+
+.foot-button {
+  color: #FFFFFF;
+  text-align: center;
+  margin: 2% 5% 2% 5%;
+  float:right;
+}
+
+.foot-button p {
+  font-family: sans-serif;
+  font-size: 100%;
+  margin:auto;
+}
